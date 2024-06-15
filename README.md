@@ -1,4 +1,4 @@
-# Merhaba! 👋 Ben [İsmin]
+# Merhaba! 👋 Ben Weacont Games
 
 Ben [Weacont Games & Weacont Studio], tutkulu bir yazılım geliştiricisiyim. Özellikle web geliştirme, oyun geliştirme ve yaratıcı projeler üzerinde çalışmaktan keyif alıyorum. İşte GitHub profilimde bulabileceğiniz bazı bilgiler:
 
