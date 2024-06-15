@@ -14,9 +14,6 @@ Ben [Weacont Games & Weacont Studio], tutkulu bir yazılım geliştiricisiyim. �
 ### [Weacont Games Launcher]([https://github.com/kullaniciadi/proje1](https://github.com/WeacontGames/WeacontGamesLauncher))
 Açıklama: Bu proje kullanıcılarımızın yaptığımız tüm oyunları online şekilde indirip ve güncelleyebileceği bir programdır.
 
-![Proje Görüntüsü](https://github.com/WeacontGames/WeacontGamesLauncher/blob/main/css_weacont_game.png)
-
-
 ## 📫 Bana Ulaşın
 
 - **E-posta:** [weacontverifyreply@gmail.com](mailto:weacontverifyreply@gmail.com)
