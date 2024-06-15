@@ -1,16 +1,27 @@
-## Hi there 👋
+# Merhaba! 👋 Ben [İsmin]
 
-<!--
-**WeacontGames/weacontgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben [Weacont Games & Weacont Studio], tutkulu bir yazılım geliştiricisiyim. Özellikle web geliştirme, oyun geliştirme ve yaratıcı projeler üzerinde çalışmaktan keyif alıyorum. İşte GitHub profilimde bulabileceğiniz bazı bilgiler:
 
-Here are some ideas to get you started:
+## 🛠️ Kullandığım Teknolojiler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Diller:** JavaScript, HTML, CSS, PHP, C#
+- **Çerçeveler & Kütüphaneler:** Node.js, Unity
+- **Veritabanları:** MySQL, Database
+- **Araçlar & Platformlar:** GitHub, VSCode
+
+## 🌟 Öne Çıkan Projeler
+
+### [Weacont Games Launcher]([https://github.com/kullaniciadi/proje1](https://github.com/WeacontGames/WeacontGamesLauncher))
+Açıklama: Bu proje kullanıcılarımızın yaptığımız tüm oyunları online şekilde indirip ve güncelleyebileceği bir programdır.
+
+![Proje Görüntüsü](https://github.com/WeacontGames/WeacontGamesLauncher/blob/main/css_weacont_game.png)
+
+
+## 📫 Bana Ulaşın
+
+- **E-posta:** [weacontverifyreply@gmail.com](mailto:weacontverifyreply@gmail.com)
+
+## 💬 Hakkımda
+
+Yazılım dünyasında her zaman yeni şeyler öğrenmeye ve kendimi geliştirmeye hevesliyim. Boş zamanlarımda Yazılım & Oyun Geliştirme ile uğraşırım. İşbirliklerine ve yeni projelere her zaman açığım!
+
