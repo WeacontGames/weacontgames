@@ -22,6 +22,6 @@ Açıklama: Bu proje kullanıcılarımızın yaptığımız tüm oyunları onlin
 
 Yazılım dünyasında her zaman yeni şeyler öğrenmeye ve kendimi geliştirmeye hevesliyim. Boş zamanlarımda Yazılım & Oyun Geliştirme ile uğraşırım. İşbirliklerine ve yeni projelere her zaman açığım!
 
-![Banner]([https://link.to/your/banner.png](https://github.com/WeacontGames/weacontgames/blob/main/background.jpeg))
+![Banner](https://github.com/WeacontGames/weacontgames/blob/main/background.jpeg)
 
 
