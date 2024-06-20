@@ -27,7 +27,7 @@ Yazılım dünyasında her zaman yeni şeyler öğrenmeye ve kendimi geliştirme
   <img src="https://github.com/WeacontGames/weacontgames/blob/main/css_24dp_FILL1_wght400_GRAD0_opsz24.svg" width="100" /> 
   <img src="https://github.com/WeacontGames/weacontgames/blob/main/javascript_24dp_FILL1_wght400_GRAD0_opsz24.svg" width="100" />
   <img src="https://github.com/WeacontGames/weacontgames/blob/main/php_24dp_FILL1_wght400_GRAD0_opsz24.svg" width="100" />
-  <img src="https://github.com/WeacontGames/weacontgames/blob/main/folder_24dp_FILL1_wght400_GRAD0_opsz24.svg" width="100" /> 
+  <img src="https://github.com/WeacontGames/weacontgames/blob/main/cookie_24dp_FILL1_wght400_GRAD0_opsz24.svg" width="100" /> 
 </p>
 
 ![Banner](https://github.com/WeacontGames/weacontgames/blob/main/background.jpeg)
