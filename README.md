@@ -22,17 +22,13 @@ Açıklama: Bu proje kullanıcılarımızın yaptığımız tüm oyunları onlin
 
 Yazılım dünyasında her zaman yeni şeyler öğrenmeye ve kendimi geliştirmeye hevesliyim. Boş zamanlarımda Yazılım & Oyun Geliştirme ile uğraşırım. İşbirliklerine ve yeni projelere her zaman açığım!
 
-<div class="fi fi-html5">
-
-![Banner](https://github.com/WeacontGames/weacontgames/blob/main/html_24dp_FILL1_wght400_GRAD0_opsz24.svg)
-
-![Banner](https://github.com/WeacontGames/weacontgames/blob/main/css_24dp_FILL1_wght400_GRAD0_opsz24.svg)
-
-![Banner](https://github.com/WeacontGames/weacontgames/blob/main/javascript_24dp_FILL1_wght400_GRAD0_opsz24.svg)
-
-![Banner](https://github.com/WeacontGames/weacontgames/blob/main/php_24dp_FILL1_wght400_GRAD0_opsz24.svg)
-
-![Banner](https://github.com/WeacontGames/weacontgames/blob/main/folder_24dp_FILL1_wght400_GRAD0_opsz24.svg)
+<p float="left">
+  <img src="https://github.com/WeacontGames/weacontgames/blob/main/html_24dp_FILL1_wght400_GRAD0_opsz24.svg" width="100" />
+  <img src="https://github.com/WeacontGames/weacontgames/blob/main/css_24dp_FILL1_wght400_GRAD0_opsz24.svg" width="100" /> 
+  <img src="https://github.com/WeacontGames/weacontgames/blob/main/javascript_24dp_FILL1_wght400_GRAD0_opsz24.svg" width="100" />
+  <img src="https://github.com/WeacontGames/weacontgames/blob/main/php_24dp_FILL1_wght400_GRAD0_opsz24.svg" width="100" />
+  <img src="https://github.com/WeacontGames/weacontgames/blob/main/folder_24dp_FILL1_wght400_GRAD0_opsz24.svg" width="100" /> 
+</p>
 
 ![Banner](https://github.com/WeacontGames/weacontgames/blob/main/background.jpeg)
 
