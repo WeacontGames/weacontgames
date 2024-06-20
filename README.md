@@ -1,4 +1,4 @@
-# Merhaba! 👋 Ben Weacont Games
+# Merhaba! 👋 Ben Oğulcan Eğri
 
 Ben Oğulcan Eğri, tutkulu bir yazılım geliştiricisiyim. Özellikle web geliştirme, oyun geliştirme ve yaratıcı projeler üzerinde çalışmaktan keyif alıyorum. İşte GitHub profilimde bulabileceğiniz bazı bilgiler:
 
