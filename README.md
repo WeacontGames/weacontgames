@@ -11,10 +11,7 @@ Ben Oğulcan Eğri, tutkulu bir yazılım geliştiricisiyim. Özellikle web geli
 
 ## 🌟 Öne Çıkan Projeler
 
-### [Cixmo]([https://github.com/WeacontGames/cixmo]))
-• Cixmo aslında kullanıcılara kendi görsellerini palet üzerinden [ width : height ] olarak ayarlamasını ve görselleri indirmelerini sağlar.
-
-[ Bu projede ki amacımız aslında java script üzerinde zorlanan yani [ backend ]'de zorlanan kullanıcılarımıza yardımcı olmaktır ]
+### [Cixmo]([https://github.com/WeacontGames/cixmo])
 
 ## 📫 Bana Ulaşın
 
