@@ -1,6 +1,6 @@
 # Merhaba! 👋 Ben Weacont Games
 
-Ben [Weacont Games & Weacont Studio], tutkulu bir yazılım geliştiricisiyim. Özellikle web geliştirme, oyun geliştirme ve yaratıcı projeler üzerinde çalışmaktan keyif alıyorum. İşte GitHub profilimde bulabileceğiniz bazı bilgiler:
+Ben Oğulcan Eğri, tutkulu bir yazılım geliştiricisiyim. Özellikle web geliştirme, oyun geliştirme ve yaratıcı projeler üzerinde çalışmaktan keyif alıyorum. İşte GitHub profilimde bulabileceğiniz bazı bilgiler:
 
 ## 🛠️ Kullandığım Teknolojiler
 
@@ -11,8 +11,10 @@ Ben [Weacont Games & Weacont Studio], tutkulu bir yazılım geliştiricisiyim. �
 
 ## 🌟 Öne Çıkan Projeler
 
-### [Weacont Games Launcher]([https://github.com/kullaniciadi/proje1](https://github.com/WeacontGames/WeacontGamesLauncher))
-Açıklama: Bu proje kullanıcılarımızın yaptığımız tüm oyunları online şekilde indirip ve güncelleyebileceği bir programdır.
+### [Cixmo]([https://github.com/WeacontGames/cixmo]))
+• Cixmo aslında kullanıcılara kendi görsellerini palet üzerinden [ width : height ] olarak ayarlamasını ve görselleri indirmelerini sağlar.
+
+[ Bu projede ki amacımız aslında java script üzerinde zorlanan yani [ backend ]'de zorlanan kullanıcılarımıza yardımcı olmaktır ]
 
 ## 📫 Bana Ulaşın
 
